@@ -19,3 +19,9 @@ dsh plugin add github:uckkk/dsh-carbon
 ## 许可
 
 MIT
+
+## 安装
+
+```bash
+dsh plugin add github:uckkk/dsh-carbon
+```
